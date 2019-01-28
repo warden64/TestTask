@@ -1,1 +1,2 @@
 pytest
+python==2.7
